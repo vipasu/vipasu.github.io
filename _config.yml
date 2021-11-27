@@ -184,7 +184,7 @@ jekyll-archives:
 scholar:
 
   last_name: Su
-  first_name: [Vincent, P.]
+  first_name: ["Vincent", "V.", "V.P.", "Vincent Paul", "Vincent P", "Vincent P."]
 
   style: apa
   locale: en
