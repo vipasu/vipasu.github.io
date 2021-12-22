@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Last updated November 2021
+description: Last updated November 2021.
 years: [2021, 2020, 2019]
 nav: true
 ---
