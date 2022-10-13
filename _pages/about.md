@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 I'm a theoretical physicist studying quantum information and quantum gravity in Professor [Raphael Bousso's group][lightsheet]. 
-Most recently, I've been fascinated by thinking about how to use quantum computing to help tackle the black hole information paradox. 
+Most recently, I've been fascinated by thinking about how to use quantum computing to study aspects of black holes. 
 I'm extremely grateful to be supported by the [NSF][grfp].
 
 Previously, I was at Stanford where I studied theoretical physics and computer science. While I was there, I did research at the intersection of machine learning and cosmology under Professor [Risa Wechsler][risa], interned at [Google][google], co-taught "Python for Scientists", and led the tutoring team at the [Center for Teaching and Learning][ctl].

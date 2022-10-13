@@ -9,6 +9,10 @@ nav: true
 I have a wide range of experience teaching, from leading labs and discussions to private tutoring. I'm a passionate believer that learning is a skill anyone can pick up.
 
 ## Experience
+- **Introductory Electromagnetism, Head Graduate Student Instructor**
+  - _Physics 8B, Berkeley, Fall 2022_
+- **First-Time GSI Conference, Physical Sciences Leader**
+  - _Center for Teaching and Learning, Berkeley, Fall 2020, 2021, 2022_
 - **Quantum Mechanics, Head Graduate Student Instructor**
   - _Physics 137A, Berkeley, Fall 2020_
 
