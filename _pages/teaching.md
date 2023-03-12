@@ -6,15 +6,19 @@ description:
 nav: true
 ---
 
-I have a wide range of experience teaching, from leading labs and discussions to private tutoring. I'm a passionate believer that learning is a skill anyone can pick up.
+I have a wide range of experience teaching, from leading labs and discussions to 1-on-1 tutoring. I'm a passionate believer that _learning_ itself is a skill anyone can pick up.
 
 ## Experience
+- **Quantum Mechanics, Graduate Student Instructor**
+  - _Physics 137A, Berkeley, Spring 2023_
 - **Introductory Electromagnetism, Head Graduate Student Instructor**
   - _Physics 8B, Berkeley, Fall 2022_
 - **First-Time GSI Conference, Physical Sciences Leader**
-  - _Center for Teaching and Learning, Berkeley, Fall 2020, 2021, 2022_
+  - _Center for Teaching and Learning, Berkeley, Fall 2020, 2021, 2022 Spring 2021_
 - **Quantum Mechanics, Head Graduate Student Instructor**
   - _Physics 137A, Berkeley, Fall 2020_
+- **Teaching Consultant**
+  - _GSI Teaching and Resource Center, Summer 2021_
 
 - **Introductory Electromagnetism, Graduate Student Instructor**
   - _Physics 8B, Berkeley, Fall 2019_
@@ -31,6 +35,7 @@ I have a wide range of experience teaching, from leading labs and discussions to
   - _Physics 91SI, Stanford, Spring 2014_
 
 ## Awards
+- Graduate Remote Instruction Leadership Fellow, Fall 2020
 - Graduate Remote Instruction Innovation Fellow, Summer 2020
 - Outstanding Graduate Student Instructor, 2019-2020
 
