@@ -28,7 +28,7 @@ In my free time, I enjoy taking [photographs][portfolio], playing [frisbee][ugmo
 
 [lightsheet]: https://lightsheet.berkeley.edu
 [bctp]: https://bctp.berkeley.edu/
-[risa]: http://risa.stanford.edu/
+[risa]: http://risawechsler.com/
 [google]: https://www.google.com/
 [ctl]: https://vptl.stanford.edu/
 [portfolio]: https://vipasu.myportfolio.com
